@@ -2,7 +2,7 @@
 
 ## Project Status: ✅ COMPLETED AND DEPLOYED TO GITHUB
 
-Your Screenshot to Text Extractor project has been successfully organized, cleaned up, and deployed to GitHub!
+Your Screenshot to Text Extractor project has been successfully organized, cleaned up, and deployed to GitHub! The project now uses a simple contact-based licensing approach.
 
 ## What Was Accomplished
 

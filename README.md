@@ -308,9 +308,9 @@ extractor.copy_to_clipboard(text)
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
-## Usage Rights
+## Licensing
 
-This project is open source and available for use.
+For licensing information, please contact Sreeram at sreeram.lagisetty@gmail.com
 
 ## Author
 
