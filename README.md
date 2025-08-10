@@ -30,7 +30,7 @@ Screenshot To Text Extractor/
 ├── install.sh             # Installation script
 ├── CLI_COMMANDS.md        # Command-line reference
 ├── QUICK_REFERENCE.md     # Quick usage guide
-├── LICENSE                # MIT License
+
 ├── .gitignore            # Git ignore file
 └── README.md             # This file
 ```
@@ -308,9 +308,9 @@ extractor.copy_to_clipboard(text)
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
-## License
+## Usage Rights
 
-This project is open source and available under the MIT License.
+This project is open source and available for use.
 
 ## Author
 

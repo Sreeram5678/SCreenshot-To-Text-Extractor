@@ -32,7 +32,7 @@ Your Screenshot to Text Extractor project has been successfully organized, clean
 ### 5. GitHub Deployment ✅
 - **Initialized Git repository**
 - **Created comprehensive .gitignore**
-- **Added MIT License**
+
 - **Pushed to GitHub** successfully
 - **Repository is live** at: https://github.com/Sreeram5678/SCreenshot-To-Text-Extractor
 
@@ -54,7 +54,7 @@ Screenshot To Text Extractor/
 ├── install.sh             # Installation script
 ├── CLI_COMMANDS.md        # Command-line reference
 ├── QUICK_REFERENCE.md     # Quick usage guide
-├── LICENSE                # MIT License
+
 ├── .gitignore            # Git ignore file
 ├── README.md             # Comprehensive documentation
 └── text_extractor/       # Virtual environment
